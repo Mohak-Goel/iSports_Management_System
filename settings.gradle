@@ -1,0 +1,2 @@
+rootProject.name='iSports Management System'
+include ':app'
