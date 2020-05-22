@@ -15,6 +15,6 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:text="i-sports Management"></TextView>
+        android:text="i-sports management"></TextView>
 
 </LinearLayout>
